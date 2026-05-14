@@ -1,4 +1,4 @@
 # praji
 test one
 <br>
-author- prajita bhujel
+author- prajita bhujel (praji)
